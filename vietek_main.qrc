@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/building.png</file>
+        <file>images/smart_object.png</file>
+        <file>Parent_Object_Button.qml</file>
+        <file>Children_Object_Button.qml</file>
+        <file>Smart_Home_View.qml</file>
+        <file>componentCreation.js</file>
+        <file>tivi.qml</file>
+    </qresource>
+</RCC>
